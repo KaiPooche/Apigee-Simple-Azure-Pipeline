@@ -19,10 +19,10 @@ variables:
   
 
 
-  DEFAULT_APIGEE_ENV: "default-dev"
-  DEFAULT_APIGEE_ORG: "bap-emea-apigee-5"
+  DEFAULT_APIGEE_ENV: "eval"
+  DEFAULT_APIGEE_ORG: "inductive-cocoa-390420"
  
-  TEST_HOST: 34.117.38.184.nip.io
+  TEST_HOST: 34.160.121.211.nip.io
   #TEST_HOST: "$(APIGEE_ORG)-$(APIGEE_ENV).apigee.net"
 
   AUTHOR_EMAIL: $(APIGEE_USER)
